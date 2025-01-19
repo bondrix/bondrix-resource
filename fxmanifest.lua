@@ -2,8 +2,14 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Bondrix'
-description 'Template resource'
+description 'Resource description goes here.'
+repository 'https://github.com/bondrix/bondrix-resource'
 version '1.0.0'
+
+dependencies {
+    'bondrix-example-1',
+    'bondrix-example-2'
+}
 
 client_scripts {
     'client/main.lua'
