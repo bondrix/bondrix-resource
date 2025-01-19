@@ -20,4 +20,4 @@ ensure bondrix-resource
 ```
 
 ## Configuration
-Every configuration option allong with its explainating can be found in `shared/config.lua`.
+Every configuration option allong with its explainating can be found in [shared/config.lua](https://github.com/bondrix/bondrix-resource/blob/main/shared/config.lua).
