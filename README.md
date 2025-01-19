@@ -7,7 +7,7 @@ Resource description goes here.
 
 ## Dependencies
 - [bondrix-example-1](https://github.com/bondrix/bondrix-example-1)
-- [bondrix-exmaple-1](https://github.com/bondrix/bondrix-example-2)
+- [bondrix-example-1](https://github.com/bondrix/bondrix-example-2)
 
 ## Installation
 ### Manual
