@@ -2,7 +2,7 @@
 Resource description goes here.
 
 ## Features
-- Feautre here.
+- Feature here.
 - Another feature here.
 
 ## Dependencies
@@ -20,4 +20,4 @@ ensure bondrix-resource
 ```
 
 ## Configuration
-Every configuration option allong with its explainating can be found in [shared/config.lua](https://github.com/bondrix/bondrix-resource/blob/main/shared/config.lua).
+Every configuration option along with its explainations can be found in [shared/config.lua](https://github.com/bondrix/bondrix-resource/blob/main/shared/config.lua).
