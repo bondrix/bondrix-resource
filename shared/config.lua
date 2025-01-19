@@ -1,2 +1,1 @@
-BondrixResource = {}
 BondrixResource.Config = {}
