@@ -1,6 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
+name 'bondrix-resource'
 author 'Bondrix'
 description 'Resource description goes here.'
 repository 'https://github.com/bondrix/bondrix-resource'
