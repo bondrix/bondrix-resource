@@ -4,7 +4,7 @@ game 'gta5'
 name 'bondrix-resource'
 author 'Bondrix'
 description 'Resource description goes here.'
-repository 'https://github.com/bondrix/bondrix-resource'
+repository 'https://github.com/bondrix/resource'
 version '1.0.0'
 
 dependencies {
